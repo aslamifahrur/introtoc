@@ -32,7 +32,7 @@ int main() {
     {
         // 3) Write the inner loop for i (columns)
         {
-            // 4) Print i * j using %4d
+            // 4) Print i * j using %4d t: sets a field width of four characters 
         }
 
         // 5) Print a new line after each row
