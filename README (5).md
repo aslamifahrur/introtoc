@@ -8,7 +8,7 @@ Start with `1` (2 to the power of 0) and print each value on a separate line.
 
 ## Instructions
 
-Include `<stdio.h>`. Inside `main()`, complete the following steps:
+Inside `main()`, complete the following steps:
 
 1. Declare an `int` variable named `max`.
 2. Declare an `int` variable named `i` and initialize it to `1`.
