@@ -12,7 +12,7 @@ Use two integer variables, `i` and `j`, with the following ranges:
 
 ## Instructions
 
-Include `<stdio.h>`. Inside `main()`, complete the following steps:
+Inside `main()`, complete the following steps:
 
 1. Declare two `int` variables named `i` and `j`.
 2. Write an outer `for` loop that repeats `j` from `1` to `9`.
