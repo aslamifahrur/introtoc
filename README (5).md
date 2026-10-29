@@ -60,7 +60,6 @@ max? 100
 
 ## Hints
 
-- Refer to `samp5-1.c`.
 - The initial value of `i` is `1`.
 - Use `i = i * 2;` to double the value in each iteration.
 - Use `<`, not `<=`: if `max` is `8`, print `1`, `2`, and `4` only.
