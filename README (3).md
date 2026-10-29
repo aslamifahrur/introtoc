@@ -4,7 +4,7 @@ Write a C program to calculate the sum of the integers from **1 to 5**.
 
 ## Instructions
 
-Include `<stdio.h>`. Inside `main()`, complete the following steps:
+Inside `main()`, complete the following steps:
 
 1. Declare an `int` variable named `sum` and set it to `0`.
 2. Declare an `int` variable named `i`.
